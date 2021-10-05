@@ -116,7 +116,6 @@ struct Pessoa {
                   printf ("\n     Informações dos Alunos:\n\n");
                   printf ("     RA: 202002346906 - Matheus JOSE CARNEIRO DOS SANTOS\n");
                   printf ("     RA: 202002394961 - Krigor Gomes Cintra Silva\n");
-		  printf ("     RA: 202002220112 - Bruno Fucherberger Pereira\n");
                   printf ("     Unidade: ESTACIO - RIBEIRÃO PRETO\n");
                   printf ("     Curso: Ciência da Computacao \n");
                   printf ("     Disciplina: ESTRUTURA DE DADOS EM C\n");
