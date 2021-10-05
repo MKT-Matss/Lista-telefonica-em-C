@@ -113,11 +113,11 @@ struct Pessoa {
                   //***********************
 
                   system ("cls");
-                  printf ("\n     Informações dos Alunos:\n\n");
+                  printf ("\n     InformaÃ§Ãµes dos Alunos:\n\n");
                   printf ("     RA: 202002346906 - Matheus JOSE CARNEIRO DOS SANTOS\n");
-                  printf ("     RA: 00000000000 - **\n");
-                  printf ("     Unidade: ESTACIO - RIBEIRÃO PRETO\n");
-                  printf ("     Curso: Ciência da Computacao \n");
+                  printf ("     RA: 202002394961 - Krigor Gomes Cintra Silva\n");
+                  printf ("     Unidade: ESTACIO - RIBEIRÃƒO PRETO\n");
+                  printf ("     Curso: CiÃªncia da Computacao \n");
                   printf ("     Disciplina: ESTRUTURA DE DADOS EM C\n");
                   printf ("     Professora: Samuel\n\n");
              
